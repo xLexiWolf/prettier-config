@@ -1,0 +1,10 @@
+{
+  "name": "@xlexiwolf/prettier-config",
+  "version": "1.0.0",
+  "author": "Alexis Wolfe <dev@lexi.gg> (https://lexi.gg)",
+  "description": "My preferred Prettier configuration.",
+  "license": "MIT",
+  "main": "index.json",
+  "repository": "git@github.com:xLexiWolf/prettier-config.git",
+  "bugs": "https://github.com/xLexiWolf/prettier-config/issues"
+}
