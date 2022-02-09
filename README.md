@@ -1,4 +1,4 @@
-# `@xLexiWolf/prettier-config`
+# `@xlexiwolf/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,13 +7,13 @@
 **Add Package:**
 
 ```bash
-$ npm i -D @xLexiWolf/prettier-config
+npm i -D @xlexiwolf/prettier-config
 ```
 
-**Edit `package.json`:**
+**Add line to `package.json`:**
 
 ```jsonc
 {
-  "prettier": "@xLexiWolf/prettier-config"
+  "prettier": "@xlexiwolf/prettier-config"
 }
 ```
