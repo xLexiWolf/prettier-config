@@ -10,7 +10,7 @@
 npm i -D @xlexiwolf/prettier-config
 ```
 
-**Add line to `package.json`:**
+**Add line into your `package.json` properties:**
 
 ```jsonc
 {
